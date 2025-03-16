@@ -5,7 +5,7 @@
 </head>
 
 <body>
-<!-- Proje Başlığı -->
+<!-- Proje BaÅŸlÄ±ÄŸÄ± -->
 <div style="text-align:center; 
 margin:0px; 
 padding:0px; 
@@ -15,12 +15,12 @@ align-items:center;
 align-content:center;">
 <div style="width:90%;">
 <h1 style="font-size:3rem;">
-Soğan Mimarisi ile Yapılandırılmış Proje Taslağı
+SoÄŸan Mimarisi ile YapÄ±landÄ±rÄ±lmÄ±ÅŸ Proje TaslaÄŸÄ±
 </h1>
 </div>
 </div>
 
-<!-- Proje Açıklaması -->
+<!-- Proje AÃ§Ä±klamasÄ± -->
 <div style="text-align:justify; 
 margin:0px; 
 padding:0px; 
@@ -30,11 +30,11 @@ align-items:center;
 align-content:center;">
 <div style="width:90%;">
 <h2 style="font-size:2.25rem; text-align:center;">
-Proje Açıklaması
+Proje AÃ§Ä±klamasÄ±
 </h2>
 <p style="font-size:1.75rem;">
-.NET 9.0 teknolojisi ile geliştirilmiş, sıfırdan proje geliştirme işlemlerinin önüne geçmek için 
-toplamda beş katmandan tasarlanmış, olabildiğince basitleştirilmiş bir proje taslağıdır.
+.NET 9.0 teknolojisi ile geliÅŸtirilmiÅŸ, sÄ±fÄ±rdan proje geliÅŸtirme iÅŸlemlerinin Ã¶nÃ¼ne geÃ§mek iÃ§in 
+toplamda beÅŸ katmandan tasarlanmÄ±ÅŸ, olabildiÄŸince basitleÅŸtirilmiÅŸ bir proje taslaÄŸÄ±dÄ±r.
 </p>
 </div>
 </div>
@@ -52,12 +52,12 @@ align-content:center;">
 Proje Durumu
 </h2>
 <p style="font-size:1.75rem;">
-Proje taslağı geliştirme aşamasındadır.
+Proje taslaÄŸÄ± geliÅŸtirme aÅŸamasÄ±ndadÄ±r.
 </p>
 </div>
 </div>
 
-<!-- Kurulum Talimatları -->
+<!-- Kurulum TalimatlarÄ± -->
 <div style="text-align:justify; 
 margin:0px; 
 padding:0px; 
@@ -67,30 +67,30 @@ align-items:center;
 align-content:center;">
 <div style="width:90%;">
 <h2 style="font-size:2.25rem; text-align:center;">
-Kurulum Talimatları
+Kurulum TalimatlarÄ±
 </h2>
 <p style="font-size:1.75rem;">
-GitHub 'dan projeyi kurmak için aşağıdaki adımları izleyin:
+GitHub 'dan projeyi kurmak iÃ§in aÅŸaÄŸÄ±daki adÄ±mlarÄ± izleyin:
 </p>
 <ol style="font-size:1.75rem; margin:0px; padding:0px;">
-<li>Terminal veya Komut İstemcisi'ni açın.</li>
-<li>Aşağıdaki komutu kullanarak projeyi klonlayın:
+<li>Terminal veya Komut Ä°stemcisi'ni aÃ§Ä±n.</li>
+<li>AÅŸaÄŸÄ±daki komutu kullanarak projeyi klonlayÄ±n:
 <pre><code>git clone https://github.com/headclef/Onion-Structured-MVC-Template.git</code></pre>
 </li>
 <li>Proje dizinine gidin:
 <pre><code>cd Onion-Structured-MVC-Template</code></pre>
 </li>
-<li>Gerekli bağımlılıkları yüklemek için aşağıdaki komutu çalıştırın:
+<li>Gerekli baÄŸÄ±mlÄ±lÄ±klarÄ± yÃ¼klemek iÃ§in aÅŸaÄŸÄ±daki komutu Ã§alÄ±ÅŸtÄ±rÄ±n:
 <pre><code>dotnet restore</code></pre>
 </li>
-<li>Projeyi çalıştırmak için:
+<li>Projeyi Ã§alÄ±ÅŸtÄ±rmak iÃ§in:
 <pre><code>dotnet run</code></pre>
 </li>
 </ol>
 </div>
 </div>
 
-<!-- Kullanım Kılavuzu -->
+<!-- KullanÄ±m KÄ±lavuzu -->
 <div style="text-align:justify; 
 margin:0px; 
 padding:0px; 
@@ -100,17 +100,17 @@ align-items:center;
 align-content:center;">
 <div style="width:90%;">
 <h2 style="font-size:2.25rem; text-align:center;">
-Kullanım Kılavuzu
+KullanÄ±m KÄ±lavuzu
 </h2>
 <p style="font-size:1.75rem;">
-Geliştirecek olduğunuz projenin ön yüzünü ve arka yüzünü tanımlayabileceğiniz yapıyı elde etmiş olursunuz.
-Bu yapıyı kullanarak projenizi geliştirebilir ve yönetebilirsiniz. Dilerseniz proje yapısını değiştirebilir
+GeliÅŸtirecek olduÄŸunuz projenin Ã¶n yÃ¼zÃ¼nÃ¼ ve arka yÃ¼zÃ¼nÃ¼ tanÄ±mlayabileceÄŸiniz yapÄ±yÄ± elde etmiÅŸ olursunuz.
+Bu yapÄ±yÄ± kullanarak projenizi geliÅŸtirebilir ve yÃ¶netebilirsiniz. Dilerseniz proje yapÄ±sÄ±nÄ± deÄŸiÅŸtirebilir
 ve kendi projenize uygun hale getirebilirsiniz.
 </p>
 </div>
 </div>
 
-<!-- Özellikler -->
+<!-- Ã–zellikler -->
 <div style="text-align:justify; 
 margin:0px; 
 padding:0px; 
@@ -120,15 +120,15 @@ align-items:center;
 align-content:center;">
 <div style="width:90%;">
 <h2 style="font-size:2.25rem; text-align:center;">
-Özellikler
+Ã–zellikler
 </h2>
 <p style="font-size:1.75rem;">
-Proje taslağı, aşağıdaki özelliklere sahiptir:
+Proje taslaÄŸÄ±, aÅŸaÄŸÄ±daki Ã¶zelliklere sahiptir:
 </p>
 <ul style="font-size:1.75rem; margin:0px; padding:0px;">
-<li>Soğan Mimarisi</li>
+<li>SoÄŸan Mimarisi</li>
 <li>Entity Framework Core</li>
-<li>Bağımlılık Enjeksiyonu</li>
+<li>BaÄŸÄ±mlÄ±lÄ±k Enjeksiyonu</li>
 <li>Repository Pattern</li>
 <li>Unit of Work Pattern</li>
 <li>AutoMapper</li>
@@ -152,8 +152,8 @@ align-content:center;">
 Katmanlar
 </h2>
 <p style="font-size:1.75rem;">
-Proje soğan mimarisini temel almıştır. Bu yüzden katmanları aşağıdaki gibi olup, asla içeriden dışarıya
-doğru bağımlılık olmamalıdır.
+Proje soÄŸan mimarisini temel almÄ±ÅŸtÄ±r. Bu yÃ¼zden katmanlarÄ± aÅŸaÄŸÄ±daki gibi olup, asla iÃ§eriden dÄ±ÅŸarÄ±ya
+doÄŸru baÄŸÄ±mlÄ±lÄ±k olmamalÄ±dÄ±r.
 <div style="text-align:center;">
 <img src="images/SoganMimarisiUpscaled.png" style="max-width: 100%; height:auto;" />
 </div>
@@ -165,8 +165,8 @@ doğru bağımlılık olmamalıdır.
 <p>
 Domain:
 <br />
-Bu katman, projenin temel yapı taşlarını içerir ve projenin diğer katmanlarına 
-bağımlı olmamalıdır.
+Bu katman, projenin temel yapÄ± taÅŸlarÄ±nÄ± iÃ§erir ve projenin diÄŸer katmanlarÄ±na 
+baÄŸÄ±mlÄ± olmamalÄ±dÄ±r.
 <pre><code>public class BaseEntity
 {
 	[Key]
@@ -181,8 +181,8 @@ bağımlı olmamalıdır.
 <p>
 Application:
 <br />
-Bu katman, projenin iş mantığını içerecek elemanların imzalarını taşır ve projenin 
-diğer katmanlarına bağımlı olmamalıdır.
+Bu katman, projenin iÅŸ mantÄ±ÄŸÄ±nÄ± iÃ§erecek elemanlarÄ±n imzalarÄ±nÄ± taÅŸÄ±r ve projenin 
+diÄŸer katmanlarÄ±na baÄŸÄ±mlÄ± olmamalÄ±dÄ±r.
 <pre><code>public interface IBaseRepository&lt;T&gt; where T : BaseEntity
 {
 	Task&lt;ModelResponse&lt;T&gt;&gt; AddAsync(T entity);
@@ -202,8 +202,8 @@ diğer katmanlarına bağımlı olmamalıdır.
 <p>
 Infrastructure
 <br />
-Bu katman, projenin dış dünyayla iletişimini sağlayacak elemanları içerir ve projenin
-alt katmanlarına bağımlı olabilir ancak üst katmanlara bağımlı olmamalıdır.
+Bu katman, projenin dÄ±ÅŸ dÃ¼nyayla iletiÅŸimini saÄŸlayacak elemanlarÄ± iÃ§erir ve projenin
+alt katmanlarÄ±na baÄŸÄ±mlÄ± olabilir ancak Ã¼st katmanlara baÄŸÄ±mlÄ± olmamalÄ±dÄ±r.
 <pre><code>public interface IBaseService
 {
 	Task&lt;ModelResponse&lt;T&gt;&gt; AddAsync(T entity);
@@ -224,7 +224,7 @@ alt katmanlarına bağımlı olabilir ancak üst katmanlara bağımlı olmamalıdır.
 		_mapper = mapper;
 		_logService = logService;
 	}
-	// Diğer metotlar
+	// DiÄŸer metotlar
 }</code></pre>
 </p>
 </li>
@@ -232,8 +232,8 @@ alt katmanlarına bağımlı olabilir ancak üst katmanlara bağımlı olmamalıdır.
 <p>
 Persistence
 <br />
-Bu katman, projenin veritabanı işlemlerini gerçekleştirecek elemanları içerir ve projenin
-alt katmanlarına bağımlı olabilir ancak üst katmanlara bağımlı olmamalıdır.
+Bu katman, projenin veritabanÄ± iÅŸlemlerini gerÃ§ekleÅŸtirecek elemanlarÄ± iÃ§erir ve projenin
+alt katmanlarÄ±na baÄŸÄ±mlÄ± olabilir ancak Ã¼st katmanlara baÄŸÄ±mlÄ± olmamalÄ±dÄ±r.
 <pre><code>public class BaseDbContext : DbContext
 {
 	// Entity 'lerin DbSet 'leri
@@ -247,7 +247,7 @@ alt katmanlarına bağımlı olabilir ancak üst katmanlara bağımlı olmamalıdır.
 	{
 		_context = context;
 	}
-	// Diğer metotlar
+	// DiÄŸer metotlar
 }
 </code></pre>
 <pre><code>public class BaseRepository&lt;T&gt; : IBaseRepository&lt;T&gt; where T : BaseEntity
@@ -259,21 +259,21 @@ alt katmanlarına bağımlı olabilir ancak üst katmanlara bağımlı olmamalıdır.
 		_context = context;
 		_mapper = mapper;
 	}
-	// Diğer metotlar
+	// DiÄŸer metotlar
 }
 </code></pre>
-Bu katmanda elde edilen hatalar, Infrastructure katmanına gönderilerek yönetilir. Bu işlem için
+Bu katmanda elde edilen hatalar, Infrastructure katmanÄ±na gÃ¶nderilerek yÃ¶netilir. Bu iÅŸlem iÃ§in
 ise;
 <pre><code>try
 {
-	// İşlemler
+	// Ä°ÅŸlemler
 }
 catch (Exception exception)
 {
 	return new Exception(exception.Message);
 }
 </code></pre>
-Yapısı kullanılır.
+YapÄ±sÄ± kullanÄ±lÄ±r.
 </p>
 </li>
 </ul>
@@ -283,9 +283,9 @@ Yapısı kullanılır.
 <p>
 MVC
 <br />
-Bu katman, projenin kullanıcı arayüzünü oluşturacak elemanları içerir ve projenin
-alt katmanlarına bağımlı olabilir ancak üst katmanlara bağımlı olmamalıdır. İyi bir
-izolasyon sağlanabilirse bu katmanın, projenin diğer katmanlarına bağımlı olmaması
+Bu katman, projenin kullanÄ±cÄ± arayÃ¼zÃ¼nÃ¼ oluÅŸturacak elemanlarÄ± iÃ§erir ve projenin
+alt katmanlarÄ±na baÄŸÄ±mlÄ± olabilir ancak Ã¼st katmanlara baÄŸÄ±mlÄ± olmamalÄ±dÄ±r. Ä°yi bir
+izolasyon saÄŸlanabilirse bu katmanÄ±n, projenin diÄŸer katmanlarÄ±na baÄŸÄ±mlÄ± olmamasÄ±
 gerekmektedir.
 </p>
 </li>
@@ -294,7 +294,7 @@ gerekmektedir.
 </div>
 </div>
 
-<!-- Katkıda Bulunanlar -->
+<!-- KatkÄ±da Bulunanlar -->
 <div style="text-align:justify;
 margin:0px;
 padding:0px;
@@ -304,10 +304,10 @@ align-items:center;
 align-content:center;">
 <div style="width:90%;">
 <h2 style="font-size:2.25rem; text-align:center;">
-Katkıda Bulunanlar
+KatkÄ±da Bulunanlar
 </h2>
 <p style="font-size:1.75rem;">
-Bu projeye katkıda bulunanlar:
+Bu projeye katkÄ±da bulunanlar:
 </p>
 <ul style="font-size:1.75rem; margin:0px; padding:0px;">
 <li><a href="https://github.com/headclef">headclef</a></li>
