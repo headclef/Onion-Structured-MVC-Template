@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="tr">
+<head>
+<meta charset="UTF-8">
+</head>
 
+<body>
 <!-- Proje Baþlýðý -->
 <div style="text-align:center; 
 margin:0px; 
@@ -310,5 +314,6 @@ Bu projeye katkýda bulunanlar:
 </ul>
 </div>
 </div>
+</body>
 
 </html>
