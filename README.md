@@ -263,17 +263,9 @@ alt katmanlarına bağımlı olabilir ancak üst katmanlara bağımlı olmamalı
 }
 </code></pre>
 Bu katmanda elde edilen hatalar, Infrastructure katmanına gönderilerek yönetilir. Bu işlem için
-ise;
-<pre><code>try
-{
-	// İşlemler
-}
-catch (Exception exception)
-{
-	return new Exception(exception.Message);
-}
-</code></pre>
-Yapısı kullanılır.
+için herhangi bir spesifik (örneğin try - catch) yapı kullanılmaz. Aksine hata doğrudan işlenebilsin
+diye stack tree 'si UnitOfWork tarafına oradan da doğrudan Servis tarafına aktarılır. Tüm loglama
+ve yönetimler burada, yani servis katmanında gerçekleştirilir.
 </p>
 </li>
 </ul>
