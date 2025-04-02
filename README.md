@@ -348,7 +348,7 @@ font-size:1.75rem;">
 <h2 style="font-size:2.25rem; text-align:center;">
 Loglama
 </h2>
-<p">
+<p>
 Proje içerisinde loglama işlemleri, Infrastructure katmanında gerçekleştirilir. Bu işlem için
 ILogService arayüzü oluşturulur ve bu arayüzü implemente eden LogService sınıfı oluşturulur.
 <pre style="margin-top:5px; margin-bottom:5px;"><code>void WriteLog(LogLevel logLevel, string message);</code></pre>
