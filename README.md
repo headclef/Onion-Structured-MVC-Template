@@ -2,7 +2,6 @@
 <html lang="tr">
 <head>
   <meta charset="UTF-8">
-  <title>Soğan Mimarisi Projesi</title>
 </head>
 <body style="margin: 0; padding: 0; font-family: 'Segoe UI', sans-serif; font-size: 1.5rem; line-height: 1.6; background-color: #fff; color: #222;">
 
